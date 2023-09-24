@@ -7,3 +7,5 @@ Some changes 2
 Changes by stefpeschel
 
 Some changes 3
+
+Some more changes 1
